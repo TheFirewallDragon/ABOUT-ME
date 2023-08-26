@@ -1,3 +1,4 @@
+
 <h1>Bonjour, Hello, Hola, こんにちは,<br> Je m'appelle Guillaume! <br/><a>Cybersecurity Student</a>, <a>Programmer</a></h1>
 
 [<img alt="Guillaume CC | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -45,9 +46,9 @@
 
 <h2>Other Interests & Hobbies:</h2>
 
- - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇱 🇵🇭</b>
+ - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇯🇵 🇵🇱 🇵🇭</b>
    - Fluency in spoken and written French, English, Spanish and Japanese
-   - Basic German, Italian, Polish and Tagalog
+   - Basic Polish and Tagalog
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [400k+ XP]
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
