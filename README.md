@@ -46,9 +46,9 @@
 
 <h2>Other Interests & Hobbies:</h2>
 
- - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇯🇵 🇮🇹 🇵🇱 🇵🇭</b>
-   - Fluency in spoken and written French, English, Japanese and Polish
-   - Basic Spanish, Italian and Tagalog
+ - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇯🇵 🇮🇹 🇵🇱 🇵🇭 🇰🇷</b>
+   - Fluency in spoken and written French, English, Spanish and Japanese
+   - Basic Italian, Polish, Tagalog and Korean
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [400k+ XP]
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
