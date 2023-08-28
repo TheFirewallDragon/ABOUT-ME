@@ -35,9 +35,9 @@
  - <a>[HackTheBox Academy](https://academy.hackthebox.com/) <!--[*Certificates*](https://github.com/TheFirewallDragon/HTBAcademy-Certificates)--></a>
  - <a>[HackTheBox Labs](https://app.hackthebox.com/users/1541118) <!--[+ Machines/Challenges]--></a>
  - <a>[LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]</a>
- - <a>[TCM Security Academy](https://academy.tcm-sec.com/)</a>
+ - <a>[TCM Security Academy](https://academy.tcm-sec.com/) <!-- [*Certificates*](https://) (17/17) --></a>
  - <a>[TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [200+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9/9)</a>
- - <a>[udemy](https://www.udemy.com/user/guillaume-carrier-couture/) [4 Courses] [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)</a>
+ - <a>[udemy](https://www.udemy.com/user/guillaume-carrier-couture/) [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)</a>
  - <a>[Web Security Academy](https://portswigger.net/web-security)</a>
 
 <h2>Personal Projects</h2>
