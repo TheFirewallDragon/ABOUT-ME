@@ -49,7 +49,7 @@
  - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇱 🇵🇭 🇰🇷</b>
    - Fluency in spoken and written French, English, Spanish and Japanese
    - Basic German, Italian, Polish, Tagalog and Korean
-   - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [400k+ XP]
+   - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [500k+ XP]
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
    - Chen-Style Tai Chi (陳氏太極拳)
@@ -57,4 +57,3 @@
    - [PlayStation](https://www.playstation.com) [1100+ Platinum Trophies]
    - [Steam](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
    - [Xbox](https://www.xbox.com) [100k+ Gamerscore]
-
