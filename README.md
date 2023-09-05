@@ -20,14 +20,17 @@
 
 <!-- 
 <h2>Certifications</h2>
+
  -tcm security
  -isaca
+ 
  -->
 
  <!-- 
 <h2>Experience</h2>
 
  -
+ 
  -->
  
 <h2>Training</h2>
