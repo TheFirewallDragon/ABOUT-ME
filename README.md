@@ -37,9 +37,9 @@
 
  - <a>[HackTheBox Academy](https://academy.hackthebox.com/) <!--[*Certificates*](https://github.com/TheFirewallDragon/HTBAcademy-Certificates)--></a>
  - <a>[HackTheBox Labs](https://app.hackthebox.com/users/1541118) <!--[+ Machines/Challenges]--></a>
- - <a>[LeetCode](https://leetcode.com/FirewallDragon/)</a>
+ - <a>[LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]</a>
  - <a>[TCM Security Academy](https://academy.tcm-sec.com/) <!-- [*Certificates*](https://) (17/17) --></a>
- - <a>[TryHackMe](https://tryhackme.com/p/AccesscodeTalker) | [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9/9)</a>
+ - <a>[TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [200+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9/9)</a>
  - <a>[udemy](https://www.udemy.com/user/guillaume-carrier-couture/) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)</a>
  - <a>[Web Security Academy](https://portswigger.net/web-security)</a>
 
@@ -57,6 +57,6 @@
    - Shōrin-Ryū Karate (少林流空手) Black Belt
    - Chen-Style Tai Chi (陳氏太極拳)
  - <b>Gaming</b>
-   - [PlayStation](https://www.playstation.com)
-   - [Steam](https://steamcommunity.com/profiles/76561199487095052)
-   - [Xbox](https://www.xbox.com)
+   - [PlayStation](https://www.playstation.com) [1100+ Platinum Trophies]
+   - [Steam](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
+   - [Xbox](https://www.xbox.com) [100k+ Gamerscore]
