@@ -35,7 +35,6 @@
  
 <h2>Training</h2>
 
- - <a>[HackTheBox Academy](https://academy.hackthebox.com/) <!--[*Certificates*](https://github.com/TheFirewallDragon/HTBAcademy-Certificates)--></a>
  - <a>[HackTheBox Labs](https://app.hackthebox.com/users/1541118) <!--[+ Machines/Challenges]--></a>
  - <a>[LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]</a>
  - <a>[TCM Security Academy](https://academy.tcm-sec.com/) <!-- [*Certificates*](https://) (17/17) --></a>
