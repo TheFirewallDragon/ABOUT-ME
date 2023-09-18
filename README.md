@@ -57,6 +57,6 @@
    - Shōrin-Ryū Karate (少林流空手) Black Belt
    - Chen-Style Tai Chi (陳氏太極拳)
  - <b>Gaming</b>
-   - [PlayStation](https://www.playstation.com) [1100+ Platinum Trophies]
+   - [PlayStation](https://www.playstation.com) [1.1k+ Platinum Trophies]
    - [Steam](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
    - [Xbox](https://www.xbox.com) [100k+ Gamerscore]
