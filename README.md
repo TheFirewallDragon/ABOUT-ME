@@ -45,6 +45,7 @@
 <h2>Personal Projects</h2>
 
  - <a>[100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)</a>
+ - <a>[Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/Cybersecurity Literature Repo)
 
 <h2>Other Interests & Hobbies:</h2>
 
