@@ -34,18 +34,18 @@
  
 <h2>Training</h2>
 
- - <a>[HackTheBox Academy](https://academy.hackthebox.com/)</a>
- - <a>[HackTheBox Labs](https://app.hackthebox.com/users/1541118)</a>
- - <a>[LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]</a>
- - <a>[TCM Security Academy](https://academy.tcm-sec.com/) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (9)</a>
- - <a>[TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [150+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9)</a>
- - <a>[udemy](https://www.udemy.com/user/guillaume-carrier-couture/) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)</a>
- - <a>[Web Security Academy](https://portswigger.net/web-security)</a>
+ - [HackTheBox Academy](https://academy.hackthebox.com/)
+ - [HackTheBox Labs](https://app.hackthebox.com/users/1541118)
+ - [LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]
+ - [TCM Security Academy](https://academy.tcm-sec.com/) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (9)
+ - [TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [150+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9)
+ - [udemy](https://www.udemy.com/user/guillaume-carrier-couture/) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
+ - [Web Security Academy](https://portswigger.net/web-security)
 
 <h2>Personal Projects</h2>
 
- - <a>[100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)</a>
- - <a>[Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/Cybersecurity Literature Repo)
+ - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
+ - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
 
 <h2>Other Interests & Hobbies:</h2>
 
