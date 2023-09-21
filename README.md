@@ -47,7 +47,7 @@
  - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
  - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
 
-<h2>Other Interests & Hobbies:</h2>
+<h2>Other Interests & Hobbies</h2>
 
  - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇱 🇵🇭 🇰🇷</b>
    - Fluency in spoken and written French, English, Spanish and Japanese
