@@ -1,4 +1,3 @@
-
 <h1>Bonjour, Hello, Hola, こんにちは,<br> Je m'appelle Guillaume! <br/><a>Cybersecurity Student</a>, <a>Programmer</a></h1>
 
 [<img alt="Guillaume CC | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
