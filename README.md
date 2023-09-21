@@ -39,7 +39,7 @@
  - [TCM Security Academy](https://academy.tcm-sec.com/) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (10)
  - [TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [200+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9)
  - [udemy](https://www.udemy.com/user/guillaume-carrier-couture/) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
- - [Web Security Academy](https://portswigger.net/web-security) [50+ Labs]
+ - [Web Security Academy](https://portswigger.net/web-security) [30+ Labs]
 
 <h2>Personal Projects</h2>
 
