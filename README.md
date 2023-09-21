@@ -36,7 +36,7 @@
  - [HackTheBox Academy](https://academy.hackthebox.com/)
  - [HackTheBox Labs](https://app.hackthebox.com/users/1541118)
  - [LeetCode](https://leetcode.com/FirewallDragon/) [200+ Solved]
- - [TCM Security Academy](https://academy.tcm-sec.com/) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (9)
+ - [TCM Security Academy](https://academy.tcm-sec.com/) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (10)
  - [TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [200+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9)
  - [udemy](https://www.udemy.com/user/guillaume-carrier-couture/) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
  - [Web Security Academy](https://portswigger.net/web-security) [50+ Labs]
