@@ -33,7 +33,7 @@
  
 <h2>Training</h2>
 
- - [HackTheBox Labs](https://app.hackthebox.com/users/1541118)
+ - [HackTheBox](https://app.hackthebox.com/users/1541118)
  - [LeetCode](https://leetcode.com/FirewallDragon/) [250+ Solved]
  - [TCM Security Academy](https://academy.tcm-sec.com/) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (11)
  - [TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [200+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9)
