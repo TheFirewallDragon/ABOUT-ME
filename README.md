@@ -33,11 +33,11 @@
  
 <h2>Training</h2>
 
- - [HackTheBox Labs](https://app.hackthebox.com/users/1541118)
- - [LeetCode](https://leetcode.com/FirewallDragon/) [300+ Solved]
- - [TCM Security Academy](https://academy.tcm-sec.com/) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (17)
- - [TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [250+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9)
- - [udemy](https://www.udemy.com/user/guillaume-carrier-couture/) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
+ - [HackTheBox Labs](https://app.hackthebox.com)
+ - [LeetCode](https://leetcode.com) [300+ Solved]
+ - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (17)
+ - [TryHackMe](https://tryhackme.com) [250+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9)
+ - [udemy](https://www.udemy.com) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
  - [Web Security Academy](https://portswigger.net/web-security) [30+ Labs]
 
 <h2>Personal Projects</h2>
@@ -50,12 +50,12 @@
  - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇱 🇵🇭 🇰🇷</b>
    - Fluency in spoken and written French, English, Spanish and Japanese
    - Basic German, Italian, Polish, Tagalog and Korean
-   - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
+   - [Duolingo](https://www.duolingo.com) [1M+ XP]
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
    - Chen-Style Tai Chi (陳氏太極拳)
    - Kickboxing
  - <b>Gaming</b>
    - [PlayStation](https://www.playstation.com) [1.1k+ Platinum Trophies]
-   - [Steam](https://steamcommunity.com/profiles/76561199487095052) [200k+ Achievements]
+   - [Steam](https://steamcommunity.com) [200k+ Achievements]
    - [Xbox](https://www.xbox.com) [100k+ Gamerscore]
