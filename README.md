@@ -34,7 +34,7 @@
 <h2>Training</h2>
 
  - [HackTheBox Labs](https://app.hackthebox.com)
- - [LeetCode](https://leetcode.com) [600+ Solved]
+ - [LeetCode](https://leetcode.com) [300+ Solved]
  - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (17)
  - [TryHackMe](https://tryhackme.com) [300+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (9)
  - [udemy](https://www.udemy.com) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
