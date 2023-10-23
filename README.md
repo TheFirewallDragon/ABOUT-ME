@@ -42,14 +42,15 @@
 
 <h2>Personal Projects</h2>
 
+ - ** INSANE DIFFICULTY ** Capture the Flag Reports
  - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
  - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
 
 <h2>Other Interests & Hobbies</h2>
 
- - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇱 🇵🇭 🇻🇦 🇬🇷 🇮🇱 🇮🇶 🇪🇬</b>
+ - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇱 🇵🇭 🇻🇦 🇬🇷 🇮🇶 🇮🇱  🇪🇬</b>
    - Fluency in spoken and written French, English, Spanish and Japanese
-   - Basic German, Italian, Polish, Tagalog, Latin, Greek, Hebrew, Aramaic and Arabic
+   - Basic German, Italian, Polish, Tagalog, Latin, Greek, Aramaic, Hebrew and Arabic
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
