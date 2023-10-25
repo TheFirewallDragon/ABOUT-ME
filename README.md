@@ -50,7 +50,8 @@
 
  - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇩🇪 🇯🇵 🇮🇹 🇵🇱 🇵🇭 🇻🇦 🇬🇷 🇮🇶 🇮🇱  🇪🇬</b>
    - Fluency in spoken and written French, English, Spanish and Japanese
-   - Basic German, Italian, Polish, Tagalog, Latin, Greek, Aramaic, Hebrew and Arabic
+   - Intermediate German, Italian, Polish and Tagalog
+   - Elementary Greek, Aramaic, Hebrew and Arabic
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
