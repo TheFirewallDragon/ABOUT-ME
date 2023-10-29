@@ -37,6 +37,7 @@
  - [HackTheBox Labs](https://app.hackthebox.com)
  - [LeetCode](https://leetcode.com/FirewallDragon/) [750+ Solved]
  - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (17)
+ - [The Odin Project](https://www.theodinproject.com/)
  - [TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [400+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (10)
  - [udemy](https://www.udemy.com) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
  - [Web Security Academy](https://portswigger.net/web-security) [50+ Labs]
