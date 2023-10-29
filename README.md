@@ -46,7 +46,7 @@
  - ** INSANE DIFFICULTY ** Capture the Flag Reports
  - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
  - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
- - The Odin Project
+ - The Odin Projects
 
 <h2>Other Interests & Hobbies</h2>
 
