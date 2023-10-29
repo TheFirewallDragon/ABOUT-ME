@@ -33,7 +33,7 @@
  
 <h2>Training</h2>
 
- - [Code Academy](https://app.hackthebox.com)
+ - [Code Academy](https://www.codecademy.com/profiles/AccesscodeTalker)
  - [HackTheBox Labs](https://app.hackthebox.com)
  - [LeetCode](https://leetcode.com/FirewallDragon/) [750+ Solved]
  - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (17)
