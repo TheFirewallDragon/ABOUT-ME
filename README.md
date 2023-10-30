@@ -39,7 +39,7 @@
  - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) (17)
  - [TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [400+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (10)
  - [udemy](https://www.udemy.com) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
- - [Web Security Academy](https://portswigger.net/web-security) [200+ Labs]
+ - [Web Security Academy](https://portswigger.net/web-security) [50+ Labs]
 
 <h2>Personal Projects</h2>
 
