@@ -33,9 +33,9 @@
  
 <h2>Training</h2>
 
- - [Code Academy](https://www.codecademy.com/profiles/AccesscodeTalker) | [*Certificates*](https://github.com/TheFirewallDragon/Code-Academy-Certificates/blob/main/README.md) (1)
+ - [Code Academy](https://www.codecademy.com/profiles/AccesscodeTalker) | [*Certificates*](https://github.com/TheFirewallDragon/Code-Academy-Certificatesd) (1)
  - [HackTheBox Labs](https://app.hackthebox.com)
- - [LeetCode](https://leetcode.com/FirewallDragon/) [750+ Solved]
+ - [LeetCode](https://leetcode.com/FirewallDragon) [750+ Solved]
  - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Certificates) / [List](https://github.com/TheFirewallDragon/TCM-Certificates-List-/blob/main/README.md) (17)
  - [TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [400+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (10)
  - [udemy](https://www.udemy.com) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
