@@ -33,10 +33,10 @@
  
 <h2>Training</h2>
 
- - [Code Academy](https://www.codecademy.com/profiles/AccesscodeTalker) [+ Badges] [*Certificates*](https://github.com/TheFirewallDragon/Code-Academy-Certificates) / [List](https://github.com/TheFirewallDragon/Code-Academy-Certificates-List/blob/main/README.md) (1)
+ - [Code Academy](https://www.codecademy.com/profiles/AccesscodeTalker) [+ Badges] [*Certificates*](https://github.com/TheFirewallDragon/Code-Academy-Certificates) (1)
  - [HackTheBox Labs](https://app.hackthebox.com)
  - [LeetCode](https://leetcode.com/FirewallDragon) [750+ Solved]
- - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates) / [List](https://github.com/TheFirewallDragon/TCM-Certificates-List-/blob/main/README.md) (17)
+ - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates) (17)
  - [TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [400+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (10)
  - [udemy](https://www.udemy.com) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
  - [Web Security Academy](https://portswigger.net/web-security) [100+ Labs]
