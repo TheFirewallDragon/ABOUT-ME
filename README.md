@@ -41,7 +41,7 @@
  - [udemy](https://www.udemy.com) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
  - [Web Security Academy](https://portswigger.net/web-security) [100+ Labs]
 
-<h2>Personal Projects</h2>
+<h2>Personal Projects (IN PROGRESS)</h2>
 
  - ** INSANE DIFFICULTY ** Capture the Flag Reports
  - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
