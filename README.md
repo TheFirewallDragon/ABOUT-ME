@@ -43,6 +43,7 @@
 
 <h2>Personal Projects (IN PROGRESS)</h2>
 
+ - ADOrdiInfo Module (current project)
  - ** INSANE DIFFICULTY ** Capture the Flag Reports
  - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
  - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
