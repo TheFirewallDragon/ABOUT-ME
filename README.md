@@ -44,7 +44,7 @@
 
 <h2>Personal Projects (IN PROGRESS)</h2>
 
- - My Powershell AD Modules (current project)
+ - [PowerShell Modules](https://github.com/TheFirewallDragon/PowerShellModules)
  - ** INSANE DIFFICULTY ** Capture the Flag Reports
  - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
  - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
