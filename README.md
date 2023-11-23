@@ -44,10 +44,10 @@
 
 <h2>Personal Projects (IN PROGRESS)</h2>
 
- - [PowerShell Modules](https://github.com/TheFirewallDragon/PowerShellModules)
- - ** INSANE DIFFICULTY ** Capture the Flag Reports
- - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
  - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
+ - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
+ - INSANE DIFFICULTY Capture the Flag Reports
+ - [PowerShell Modules](https://github.com/TheFirewallDragon/PowerShellModules)
  - The Odin Projects
 
 <h2>Other Interests & Hobbies</h2>
