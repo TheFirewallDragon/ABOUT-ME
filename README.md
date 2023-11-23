@@ -63,6 +63,6 @@
    - Kickboxing
    - Wrestling
  - <b>Gaming</b>
-   - [PlayStation](https://www.playstation.com) [1.1k+ Platinum Trophies]
-   - [Steam](https://steamcommunity.com) [200k+ Achievements]
    - [Xbox](https://www.xbox.com) [100k+ Gamerscore]
+   - [Steam](https://steamcommunity.com) [200k+ Achievements]
+   - [PlayStation](https://www.playstation.com) [1.1k+ Platinum Trophies]
