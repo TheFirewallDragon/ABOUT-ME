@@ -42,7 +42,7 @@
  - [udemy](https://www.udemy.com) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
  - [Web Security Academy](https://portswigger.net/web-security) [100+ Labs]
 
-<h2>Personal Projects (IN PROGRESS)</h2>
+<h2>Personal Projects</h2>
 
  - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
  - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
