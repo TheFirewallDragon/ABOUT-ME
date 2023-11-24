@@ -54,7 +54,7 @@
 
  - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇯🇵 🇩🇪 🇮🇹 🇵🇱 🇵🇭 🇻🇦 🇬🇷 🇮🇶 🇮🇱 🇸🇦</b>
    - C2 Proficiency: French, English, Spanish and Japanese
-   - B1 Intermediate: German, Italian, Polish and Tagalog
+   - B1 Intermediate: German and Italian
    - A2 Elementary: Latin, Greek, Aramaic, Hebrew and Arabic
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
  - <b>Martial Arts</b>
