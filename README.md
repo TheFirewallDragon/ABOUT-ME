@@ -36,7 +36,7 @@
  - [Code Academy](https://www.codecademy.com/profiles/AccesscodeTalker) [200+ Badges] [*Certificates*](https://github.com/TheFirewallDragon/Code-Academy-Certificates) (16)
  - [HackTheBox Labs](https://app.hackthebox.com/users/1541118) [100+ Machines/Challenges]
  - [LeetCode](https://leetcode.com/FirewallDragon) [750+ Solved]
- - [PicoCTF](https://play.picoctf.org/users/guillaumethecoder) [300+ Challenges]
+ - [PicoCTF](https://play.picoctf.org/users/guillaumethecoder) [100+ Challenges]
  - [TCM Security Academy](https://academy.tcm-sec.com) | [*Certificates*](https://github.com/TheFirewallDragon/TCM-Security-Academy-Certificates) (17)
  - [TryHackMe](https://tryhackme.com/p/AccesscodeTalker) [400+ Rooms] [*Certificates*](https://github.com/TheFirewallDragon/TryHackMe-Certificates) (11)
  - [udemy](https://www.udemy.com) | [*Certificates*](https://github.com/TheFirewallDragon/udemy-Certificates) (4)
