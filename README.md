@@ -52,7 +52,7 @@
 
 <h2>Other Interests & Hobbies</h2>
 
- - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇯🇵 🇩🇪 🇮🇹 🇵🇱 🇵🇭 🇻🇦 🇬🇷 🇮🇶 🇮🇱 🇸🇦</b>
+ - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇯🇵 🇩🇪 🇮🇹 🇻🇦 🇬🇷 🇮🇶 🇮🇱 🇸🇦</b>
    - C2 Proficiency: French, English, Spanish and Japanese
    - B1 Intermediate: German and Italian
    - A2 Elementary: Latin, Greek, Aramaic, Hebrew and Arabic
