@@ -46,7 +46,7 @@
 
  - [100 Python Projects](https://github.com/TheFirewallDragon/100PythonProjects)
  - [Cybersecurity Literature Repo](https://github.com/TheFirewallDragon/CybersecurityLiteratureRepo)
- - INSANE DIFFICULTY Capture the Flag Reports
+ - INSANE DIFFICULTY Capture the Flag Reports (Current)
  - [PowerShell Modules](https://github.com/TheFirewallDragon/PowerShellModules) (Current)
  - The Odin Project
 
