@@ -52,9 +52,9 @@
 
 <h2>Other Interests & Hobbies</h2>
 
- - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇯🇵 🇮🇹 🇵🇱 🇵🇭 🇻🇦 🇬🇷 🇮🇶 🇮🇱 🇸🇦</b>
-   - C2 Proficiency: French, English, Spanish, Japanese, Korean and Chinese
-   - B1 Intermediate: Italian, Polish and Tagalog
+ - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇯🇵 🇮🇹 🇻🇦 🇬🇷 🇮🇶 🇮🇱 🇸🇦</b>
+   - C2 Proficiency: French, English, Spanish and Japanese
+   - B1 Intermediate: Italian
    - A2 Elementary: Latin, Greek, Aramaic, Hebrew and Arabic
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
  - <b>Martial Arts</b>
