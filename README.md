@@ -59,8 +59,8 @@
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
-   - Chen-Style Tai Chi (陳氏太極拳)
    - Kickboxing
+   - Chen-Style Tai Chi (陳氏太極拳)
    - Wrestling
  - <b>Gaming</b>
    - [Xbox](https://www.xbox.com) [100k+ Gamerscore]
