@@ -55,7 +55,7 @@
  - <b>Linguistics 🇫🇷 🇬🇧 🇯🇵 🇵🇱 🇻🇦 🇮🇹 🇬🇷 🇮🇶 🇮🇱 🇸🇦</b>
    - C2 Proficiency: French, English, Japanese and Polish
    - B1 Intermediate: Latin and Italian
-   - A1 Beginner: Greek, Aramaic, Hebrew and Arabic
+   - A2 Elementary: Greek, Aramaic, Hebrew and Arabic
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
