@@ -1,4 +1,4 @@
-<h1>Bonjour, Hello, こんにちは, Cześć,<br> Je m'appelle Guillaume! <br/>Cybersecurity Student</h1>
+<h1>Bonjour, Hello, Hola, こんにちは, Cześć,<br> Je m'appelle Guillaume! <br/>Cybersecurity Student</h1>
 
 [<img alt="Guillaume CC | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Guillaume CC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -52,8 +52,8 @@
 
 <h2>Other Interests & Hobbies</h2>
 
- - <b>Linguistics 🇫🇷 🇬🇧 🇯🇵 🇵🇱 🇻🇦 🇮🇹 🇬🇷 🇮🇶 🇮🇱 🇸🇦</b>
-   - C2 Proficiency: French, English, Japanese and Polish
+ - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇯🇵 🇵🇱 🇻🇦 🇮🇹 🇬🇷 🇮🇶 🇮🇱 🇸🇦</b>
+   - C2 Proficiency: French, English, Spanish, Japanese and Polish
    - B1 Intermediate: Latin and Italian
    - A2 Elementary: Greek, Aramaic, Hebrew and Arabic
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
