@@ -53,7 +53,7 @@
 <h2>Other Interests & Hobbies</h2>
 
  - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇯🇵 🇵🇱 🇻🇦 🇮🇹 🇬🇷 🇮🇶 🇮🇱 🇸🇦</b>
-   - C2 Proficiency: French, English, Spanish, German, Japanese and Polish
+   - C2 Proficiency: French, English, Spanish, Japanese and Polish
    - B1 Intermediate: Latin and Italian
    - A2 Elementary: Greek, Aramaic, Hebrew and Arabic
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
