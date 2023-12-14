@@ -61,6 +61,7 @@
    - Kickboxing
    - Chen-Style Tai Chi (陳氏太極拳)
    - Wrestling
+   - Muay Thai (มวยไทย)
  - <b>Gaming</b>
    - [Xbox](https://www.xbox.com) [100k+ Gamerscore]
    - [Steam](https://steamcommunity.com) [200k+ Achievements]
