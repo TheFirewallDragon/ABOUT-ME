@@ -1,4 +1,4 @@
-<h1>Bonjour, Hello, Hola, こんにちは, Cześć,<br> Je m'appelle Guillaume! <br/>Cybersecurity Student</h1>
+<h1>Bonjour, Hello, Ciao, Salve, こんにちは, Cześć,<br> Je m'appelle Guillaume! <br/>Cybersecurity Student</h1>
 
 [<img alt="Guillaume CC | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Guillaume CC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -54,7 +54,7 @@
 
  - <b>Linguistics 🇫🇷 🇬🇧 🇮🇹 🇻🇦 🇯🇵 🇵🇱</b>
    - C2 Proficiency: French, English, Italian, Latin, Japanese and Polish
-   - A2 Elementary: Hebrew, Aramaic and Greek
+   - A2 Elementary: Aramaic, Greek, German, Hebrew and Arabic
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
