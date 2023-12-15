@@ -52,9 +52,9 @@
 
 <h2>Other Interests & Hobbies</h2>
 
- - <b>Linguistics 🇫🇷 🇬🇧 🇪🇸 🇯🇵 🇵🇱 🇻🇦</b>
-   - C2 Proficiency: French, English, Spanish, Japanese and Polish
-   - B1 Intermediate: Latin
+ - <b>Linguistics 🇫🇷 🇬🇧 🇮🇹 🇻🇦 🇯🇵 🇵🇱</b>
+   - C2 Proficiency: French, English, Italian, Latin, Japanese and Polish
+   - A2 Elementary: Hebrew, Aramaic and Greek
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
