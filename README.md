@@ -52,7 +52,7 @@
 
 <h2>Other Interests & Hobbies</h2>
 
- - <b>Linguistics 🇫🇷 🇬🇧 🇮🇹 🇯🇵 🇵🇱 🇰🇷</b>
+ - <b>Linguistics 🇫🇷 🇬🇧 🇮🇹 🇯🇵 🇵🇱 🇰🇷 🇻🇦 🇮🇶 🇬🇷 🇮🇱 🇸🇦</b>
    - C2 Proficiency: French, English, Italian, Japanese, Polish and Korean
    - A2 Elementary: Latin, Aramaic, Greek, Hebrew and Arabic
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP]
