@@ -1,4 +1,4 @@
-<h1>Bonjour, Hello, Salve, こんにちは, Cześć, 안녕하세요,<br> Je m'appelle Guillaume! <br/>Cybersecurity Student</h1>
+<h1>Bonjour, Greetings, Salve, こんにちは, Cześć, 안녕하세요,<br> Je m'appelle Guillaume! <br/>Cybersecurity Student</h1>
 
 [<img alt="Guillaume CC | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Guillaume CC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
