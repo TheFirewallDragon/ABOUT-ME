@@ -50,7 +50,7 @@
 
  - <b>Linguistics 🇫🇷 🇬🇧 🇮🇹 🇵🇱</b>
    - C2 French, English, Italian, Polish
-   - Elementary Knowledge of Other Languages
+   - Elementary knowledge of other languages
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP], [Busuu](https://www.busuu.com)
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
