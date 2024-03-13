@@ -54,7 +54,7 @@
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP], [Busuu](https://www.busuu.com)
  - <b>Martial Arts</b>
    - Shōrin-Ryū Karate (少林流空手) Black Belt
-   - Kickboxing
+   - Kickboxing, Muay Thai (มวยไทย)
    - Wrestling
    - Chen-Style Tai Chi (陳氏太極拳) 
  - <b>Gaming</b>
