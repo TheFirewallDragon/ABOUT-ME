@@ -48,7 +48,7 @@
 
 <h2>Other Interests & Hobbies</h2>
 
- - <b>Linguistics 🇫🇷 🇬🇧 🇮🇹 🇵🇱</b>
+ - <b>Linguistics 🇫🇷 🇺🇸 🇮🇹 🇵🇱</b>
    - C2 French, English, Italian, Polish
    - Elementary knowledge of other languages
    - [Duolingo](https://www.duolingo.com/profile/guillaume-san) [1M+ XP], [Busuu](https://www.busuu.com)
